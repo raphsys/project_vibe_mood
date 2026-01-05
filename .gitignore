@@ -33,3 +33,7 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+#autres
+raphsys-project_vibe_mood-*.txt
+
